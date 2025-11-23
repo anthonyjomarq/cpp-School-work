@@ -1,9 +1,0 @@
-﻿  Date.cpp
-  Main.cpp
-  MyString.cpp
-  PersonalBest.cpp
-C:\Users\antho\source\repos\CECS 2222 PersonalBestArrayArray\CECS 2222 PersonalBestArrayArray\PersonalBest.cpp(121,7): warning C4804: '>': unsafe use of type 'bool' in operation
-  PersonalBestArray.cpp
-  PersonalBestArrayArray.cpp
-  Generating Code...
-  CECS 2222 PersonalBestArrayArray.vcxproj -> C:\Users\antho\source\repos\CECS 2222 PersonalBestArrayArray\Debug\CECS 2222 PersonalBestArrayArray.exe

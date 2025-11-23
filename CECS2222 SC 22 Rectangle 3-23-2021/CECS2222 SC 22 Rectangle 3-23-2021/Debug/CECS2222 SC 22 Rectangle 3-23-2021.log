@@ -1,6 +1,0 @@
-﻿  Rectangle.cpp
-  Source.cpp
-C:\Users\antho\source\repos\CECS2222 SC 22 Rectangle 3-23-2021\CECS2222 SC 22 Rectangle 3-23-2021\Source.cpp(23,30): warning C4101: 'e': unreferenced local variable
-C:\Users\antho\source\repos\CECS2222 SC 22 Rectangle 3-23-2021\CECS2222 SC 22 Rectangle 3-23-2021\Source.cpp(40,31): warning C4101: 'e': unreferenced local variable
-  Generating Code...
-  CECS2222 SC 22 Rectangle 3-23-2021.vcxproj -> C:\Users\antho\source\repos\CECS2222 SC 22 Rectangle 3-23-2021\Debug\CECS2222 SC 22 Rectangle 3-23-2021.exe

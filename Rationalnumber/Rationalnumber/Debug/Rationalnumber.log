@@ -1,4 +1,0 @@
-﻿  RationalNumber.cpp
-C:\Users\antho\source\repos\Rationalnumber\Rationalnumber\RationalNumber.cpp(122): warning C4172: returning address of local variable or temporary: temp
-C:\Users\antho\source\repos\Rationalnumber\Rationalnumber\RationalNumber.cpp(133): warning C4172: returning address of local variable or temporary: temp
-  Rationalnumber.vcxproj -> C:\Users\antho\source\repos\Rationalnumber\Debug\Rationalnumber.exe

@@ -1,4 +1,0 @@
-﻿  lab7.cpp
-C:\Users\antho\source\repos\Lab7\Lab7\lab7.cpp(57,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\antho\source\repos\Lab7\Lab7\lab7.cpp(73,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Lab7.vcxproj -> C:\Users\antho\source\repos\Lab7\Debug\Lab7.exe

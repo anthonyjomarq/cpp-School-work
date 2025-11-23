@@ -1,4 +1,0 @@
-﻿  StudentMain.cpp
-C:\Users\antho\source\repos\CECS2222 SC 22 Clase StudentTestScores 3-23-2021\CECS2222 SC 22 Clase StudentTestScores 3-23-2021\StudentMain.cpp(9,9): warning C4101: 'score': unreferenced local variable
-C:\Users\antho\source\repos\CECS2222 SC 22 Clase StudentTestScores 3-23-2021\CECS2222 SC 22 Clase StudentTestScores 3-23-2021\StudentMain.cpp(10,6): warning C4101: 'index': unreferenced local variable
-  CECS2222 SC 22 Clase StudentTestScores 3-23-2021.vcxproj -> C:\Users\antho\source\repos\CECS2222 SC 22 Clase StudentTestScores 3-23-2021\Debug\CECS2222 SC 22 Clase StudentTestScores 3-23-2021.exe

@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\antho\source\repos\Class inventory\Class inventory\inventory.h(23,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  Class inventory.vcxproj -> C:\Users\antho\source\repos\Class inventory\Debug\Class inventory.exe

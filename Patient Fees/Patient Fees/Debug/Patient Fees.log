@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\antho\source\repos\Patient Fees\Patient Fees\Source.cpp(10,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\antho\source\repos\Patient Fees\Patient Fees\Source.cpp(11,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-C:\Users\antho\source\repos\Patient Fees\Patient Fees\Source.cpp(44,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Patient Fees.vcxproj -> C:\Users\antho\source\repos\Patient Fees\Debug\Patient Fees.exe

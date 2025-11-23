@@ -1,5 +1,0 @@
-﻿  NumberArray.cpp
-  Source.cpp
-  Generating Code...
-C:\Users\antho\source\repos\CECS 2222 NumberArrayClass\CECS 2222 NumberArrayClass\NumberArray.cpp(88): warning C4715: 'NumberArray::operator==': not all control paths return a value
-  CECS 2222 NumberArrayClass.vcxproj -> C:\Users\antho\source\repos\CECS 2222 NumberArrayClass\Debug\CECS 2222 NumberArrayClass.exe

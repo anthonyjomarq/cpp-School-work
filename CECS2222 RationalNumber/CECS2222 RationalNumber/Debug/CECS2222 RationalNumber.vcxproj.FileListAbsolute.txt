@@ -1,3 +1,0 @@
-C:\Users\antho\source\repos\CECS2222 RationalNumber\CECS2222 RationalNumber\Debug\CECS2222 RationalNumber.exe
-C:\Users\antho\source\repos\CECS2222 RationalNumber\CECS2222 RationalNumber\Debug\CECS2222 RationalNumber.pdb
-C:\Users\antho\source\repos\CECS2222 RationalNumber\Debug\CECS2222 RationalNumber.pdb

@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\antho\source\repos\Programa 13-1\Programa 13-1\Source.cpp(78): error C4700: uninitialized local variable 'rectWidth' used
-C:\Users\antho\source\repos\Programa 13-1\Programa 13-1\Source.cpp(79): error C4700: uninitialized local variable 'rectLength' used

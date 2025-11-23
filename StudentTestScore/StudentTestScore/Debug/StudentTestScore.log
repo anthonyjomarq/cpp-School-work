@@ -1,3 +1,0 @@
-﻿  StudentTestScores.cpp
-C:\Users\antho\source\repos\StudentTestScore\StudentTestScore\StudentTestScores.cpp(60,6): warning C4101: 'tempScore': unreferenced local variable
-  StudentTestScore.vcxproj -> C:\Users\antho\source\repos\StudentTestScore\Debug\StudentTestScore.exe

@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\antho\source\repos\Multiplication Game\Multiplication Game\Source.cpp(20,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Multiplication Game.vcxproj -> C:\Users\antho\source\repos\Multiplication Game\Debug\Multiplication Game.exe

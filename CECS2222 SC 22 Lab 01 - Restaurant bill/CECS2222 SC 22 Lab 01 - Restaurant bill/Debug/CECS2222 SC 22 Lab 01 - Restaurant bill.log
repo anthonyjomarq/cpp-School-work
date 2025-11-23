@@ -1,6 +1,0 @@
-﻿  Bill.cpp
-  BillMain.cpp
-C:\Users\antho\source\repos\CECS2222 SC 22 Lab 01 - Restaurant bill\CECS2222 SC 22 Lab 01 - Restaurant bill\BillMain.cpp(13,22): warning C4101: 'tax': unreferenced local variable
-C:\Users\antho\source\repos\CECS2222 SC 22 Lab 01 - Restaurant bill\CECS2222 SC 22 Lab 01 - Restaurant bill\BillMain.cpp(13,27): warning C4101: 'tip': unreferenced local variable
-  Generating Code...
-  CECS2222 SC 22 Lab 01 - Restaurant bill.vcxproj -> C:\Users\antho\source\repos\CECS2222 SC 22 Lab 01 - Restaurant bill\Debug\CECS2222 SC 22 Lab 01 - Restaurant bill.exe

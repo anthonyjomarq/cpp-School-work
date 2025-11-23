@@ -1,2 +1,0 @@
-﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\antho\source\repos\CECS 2222 Rectangle and Cube class\Debug\CECS 2222 Rectangle and Cube class.exe : fatal error LNK1120: 1 unresolved externals

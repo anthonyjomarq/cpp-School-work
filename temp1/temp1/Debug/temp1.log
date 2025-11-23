@@ -1,3 +1,0 @@
-﻿  PersonalBest.cpp
-C:\Users\antho\source\repos\temp1\temp1\PersonalBest.cpp(132,7): warning C4804: '>': unsafe use of type 'bool' in operation
-  temp1.vcxproj -> C:\Users\antho\source\repos\temp1\Debug\temp1.exe

@@ -1,7 +1,0 @@
-﻿  Source.cpp
-C:\Users\antho\source\repos\Linear Search Function\Linear Search Function\Source.cpp(19,33): error C2872: 'count': ambiguous symbol
-C:\Users\antho\source\repos\Linear Search Function\Linear Search Function\Source.cpp(6,5): message : could be 'int count'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(4685,32): message : or       'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'
-C:\Users\antho\source\repos\Linear Search Function\Linear Search Function\Source.cpp(32,14): error C2872: 'count': ambiguous symbol
-C:\Users\antho\source\repos\Linear Search Function\Linear Search Function\Source.cpp(6,5): message : could be 'int count'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(4685,32): message : or       'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'

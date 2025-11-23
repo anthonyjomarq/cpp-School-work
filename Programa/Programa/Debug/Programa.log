@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\antho\source\repos\Programa\Programa\Source.cpp(70,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\antho\source\repos\Programa\Programa\Source.cpp(96,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Programa.vcxproj -> C:\Users\antho\source\repos\Programa\Debug\Programa.exe

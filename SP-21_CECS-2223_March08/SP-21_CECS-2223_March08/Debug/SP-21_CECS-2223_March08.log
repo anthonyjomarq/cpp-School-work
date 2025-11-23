@@ -1,3 +1,0 @@
-﻿Circle.obj : error LNK2019: unresolved external symbol "public: double __thiscall Circle::getDiameter(void)const " (?getDiameter@Circle@@QBENXZ) referenced in function "public: void __thiscall Circle::printCircle(void)const " (?printCircle@Circle@@QBEXXZ)
-Circle.obj : error LNK2001: unresolved external symbol "private: static double const Circle::PI" (?PI@Circle@@0NB)
-C:\Users\antho\source\repos\SP-21_CECS-2223_March08\Debug\SP-21_CECS-2223_March08.exe : fatal error LNK1120: 2 unresolved externals

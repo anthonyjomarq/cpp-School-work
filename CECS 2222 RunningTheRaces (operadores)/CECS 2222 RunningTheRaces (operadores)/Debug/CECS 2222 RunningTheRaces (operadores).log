@@ -1,7 +1,0 @@
-﻿  Race.cpp
-  RaceMain.cpp
-C:\Users\antho\source\repos\CECS 2222 RunningTheRaces (operadores)\CECS 2222 RunningTheRaces (operadores)\RaceMain.cpp(14,6): warning C4101: 'seconds': unreferenced local variable
-C:\Users\antho\source\repos\CECS 2222 RunningTheRaces (operadores)\CECS 2222 RunningTheRaces (operadores)\RaceMain.cpp(13,6): warning C4101: 'minutes': unreferenced local variable
-C:\Users\antho\source\repos\CECS 2222 RunningTheRaces (operadores)\CECS 2222 RunningTheRaces (operadores)\RaceMain.cpp(12,6): warning C4101: 'hours': unreferenced local variable
-  Generating Code...
-  CECS 2222 RunningTheRaces (operadores).vcxproj -> C:\Users\antho\source\repos\CECS 2222 RunningTheRaces (operadores)\Debug\CECS 2222 RunningTheRaces (operadores).exe
